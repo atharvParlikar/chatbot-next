@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Chatbot-next
+
+This is a chatbot component I created for a small ed-tech company, integrating openai gpt-3.5 API
 
 ## Getting Started
 
